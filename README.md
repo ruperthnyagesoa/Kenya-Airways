@@ -7,7 +7,7 @@
 
 ## Overview
 
-Kenya Airways.Book a Flight.
+Kenya Airways Website.Book a Flight.
 Made with basic HTML, CSS, TailwindCSS, SCSS, JavaScript and jQuery.
 
 ## Tech Stack
