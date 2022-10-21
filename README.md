@@ -16,7 +16,7 @@ Made with basic HTML, CSS, TailwindCSS, SCSS, JavaScript and jQuery.
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/ruperthnyagesoa/Kenya-Airways/search?l=javascript)
 
 ## Sneak Peek of Home Page 🙈 :
-![jsprothumb3](./images/Kenya Airways.jpeg)
+![jsprothumb3](https://github.com/ruperthnyagesoa/Kenya-Airways/blob/main/images/Kenya%20Airways.jpeg)
 
 
 <h2>📬 Contact</h2>
