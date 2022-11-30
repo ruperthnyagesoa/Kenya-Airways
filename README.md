@@ -1,6 +1,6 @@
 # Kenya-Airways
 
-[Visit Now](https://ruperthnyagesoagithub.io/Kenya-Airways/) 🚀
+[Visit Now](https://kenya-airways.netlify.app/) 🚀
 
 [![javascript-projects](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?color=blue)](https://ruperthnyagesoa.github.io/Kenya-Airways/)&nbsp;
 [![repo-size](https://img.shields.io/github/repo-size/ruperthnyagesoa/Kenya-Airways)](https://github.com/ruperthnyagesoa/Kenya-Airways)
